@@ -1,0 +1,25 @@
+h1{
+    color: royalblue;
+    font-size: 20px;
+    /*font-weight: 800; */
+}
+.kdz {
+    text-align: center;
+}
+html {
+    background: url('https://i.pinimg.com/originals/c5/44/ce/c544ce1f8c6d3cf8e25c8e99b4591c41.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.kpdzvc {
+    color: rgb(39, 44, 93);
+	text-align: center;
+}
+.anh {
+    text-align: right;
+    /*background-color: white; */
+}
+.linkfacebook{
+    color: black;
+    /*background-color: white; */
+}
